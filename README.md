@@ -1,10 +1,11 @@
 # Indoor Long-term Re-identification Wardrobe Dataset
 
-We present a video dataset composed of 25 people, walking along an indoor corridor, with varied clothing appearances. In consideration for long term re-id we col- lected the data once every day, for 30 days, using a single camera. We term this dataset as “Indoor Long-term Re- identification Wardrobe (ILRW)” dataset.
+We present a video dataset composed of 25 people, walking along an indoor corridor which is in the Computer Science and Engineering building at UB, with varied clothing appearances. In consideration for long term re-id we collected the data once every day, for 30 days, using a single camera.
 
-## License
+Currently, we are currently in the process of setting up a location in UB's servers which can host the file. 
+Once done, we will publish the link in github.
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+For any question, please contact me at klee43 at buffalo dot edu.
 
 ## Acknowledgments
 
